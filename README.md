@@ -1,6 +1,6 @@
 # curso-node-tabla
 
-Primera aplicación realizada durante el curso de Node.
+Primera aplicación realizada durante el [curso de Node](https://www.udemy.com/course/node-de-cero-a-experto/).
 
 ```
 Opciones:
